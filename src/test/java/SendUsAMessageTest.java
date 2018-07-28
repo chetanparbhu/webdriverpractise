@@ -67,9 +67,7 @@ public class SendUsAMessageTest {
     }
 
     // Test there are a certain amount of items in the droplist
-    @Test
-    public void
-
+    
     // Test I can complete the whole form, names etc and all that stuff
 
     // Order the tests then close the browser
