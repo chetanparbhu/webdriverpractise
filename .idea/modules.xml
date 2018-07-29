@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/bnz-practise-tests.iml" filepath="$PROJECT_DIR$/bnz-practise-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webdriverpractise.iml" filepath="$PROJECT_DIR$/webdriverpractise.iml" />
     </modules>
   </component>
 </project>

@@ -2,13 +2,11 @@ package test.java;
 
 
 import main.java.pages.SendUsAMessagePage;
-import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Assert;
 import org.junit.jupiter.api.Test;
-import org.openqa.selenium.WebDriver;
 
-import static java.lang.System.*;
+import static java.lang.System.out;
 
 
 public class SendUsAMessageTest {
